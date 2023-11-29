@@ -1,11 +1,11 @@
 ---
 title: "Supply Chain Management - WhatsApp ⛓️"
 description: "Whatsapp customer ordering and inquiry system to be integrated with an ecommerce system."
-dateString: Nov 2023
+dateString: Ongoing
 draft: false
 tags: ["Python", "JavaScript", "jQuery", "Django", "Reactjs", "PostgreSQL", "Docker"]
 showToc: false
-weight: 200
+weight: 201
 cover:
     image: "projects/scmw/SCM_1.jpg"
 --- 

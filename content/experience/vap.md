@@ -3,7 +3,7 @@ title: "Software Engineer"
 description: "VAP Technologies (Nairobi)"
 dateString: Jan 2023 - Ongoing
 draft: false
-tags: ["Python", "JavaScript", "jQuery", "PostgreSQL,", "Docker", "Linux", "Django", "Reactjs", "Django REST Framework", "Git"]
+tags: ["Python", "JavaScript", "jQuery", "PostgreSQL", "Docker", "Linux", "Django", "Reactjs", "Django REST Framework", "Git"]
 showToc: false
 weight: 300
 --- 

@@ -5,7 +5,7 @@ dateString: Sep 2023
 draft: false
 tags: ["Python", "JavaScript", "jQuery", "Django", "PostgreSQL"]
 showToc: false
-weight: 201
+weight: 200
 cover:
     image: "projects/altarsports/Altar_1.jpg"
 --- 
