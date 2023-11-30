@@ -67,14 +67,14 @@ params:
     hiddenInSingle: false # hide on single page
 
   socialIcons:
-    - name: "email"
-      url: "waganeal@gmail.com"
+    # - name: "email"
+    #   url: "waganeal@gmail.com"
     - name: "linkedin"
       url: "https://www.linkedin.com/in/nealwaga/"
     - name: "github"
       url: "https://github.com/nealwaga"
-    - name: "twitter"
-      url: "https://www.twitter.com/nealunbothered"
+    # - name: "twitter"
+    #   url: "https://www.twitter.com/nealunbothered"
 
   # text search
   fuseOpts:
