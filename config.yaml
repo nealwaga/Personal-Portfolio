@@ -49,7 +49,7 @@ params:
   profileMode:
     enabled: true
     title: "Neal Waga"
-    subtitle: Hi 👋! I'm Neal, an ambitious Junior Software Engineer at [**VAP Technologies**](https://vaptechltd.co.ke/). Being a top graduate from [**Moringa School**](https://moringaschool.com/), I bring a solid foundation in Software Engineering with professional experience. I am captivated by the dynamic world of Web Development, with a keen interest in innovative practices and cutting-edge technologies. My unwavering curiosity and drive push me to explore fresh avenues to redefine technological frontiers. 
+    subtitle: Hi 👋! I'm Neal, an ambitious Junior Software Engineer. I bring a solid foundation in Software Engineering with professional experience. I am captivated by the dynamic world of Web Development, with a keen interest in innovative practices and cutting-edge technologies. My curiosity and drive push me to explore fresh avenues to redefine technological frontiers. 
     imageUrl: "home/Me_1.jpg"
     imageWidth: 220
     imageHeight: 220
