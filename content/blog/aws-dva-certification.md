@@ -1,15 +1,15 @@
 ---
-title: "I passed the AWS DVA Certification Exam"
-description: "How I passed the AWS Developer - Associate Certification Exam (DVA-C02)"
-dateString: Mar 2023
-draft: false
-tags: []
-weight: 101
-cover:
-    image: "/blog/aws-dva-certification/cover.jpg"
+title: "COMING SOON! 👨🏾‍💻"
+# description: "How I passed the AWS Developer - Associate Certification Exam (DVA-C02)"
+# dateString: Mar 2023
+# draft: false
+# tags: []
+# weight: 101
+# cover:
+#     image: "/blog/aws-dva-certification/cover.jpg"
 ---
 
-# Credentials
+<!-- # Credentials
 ### 🔗 [Certificate](https://drive.google.com/file/d/1VhFPfb1cc7ORFVqFetCvpiGLPE96ofg4/view?usp=sharing)
 
 ### 🔗 [Credly Badge](https://www.credly.com/badges/b08022fe-627a-4b78-8647-b42955f50767/public_url)
@@ -66,4 +66,4 @@ Last year, I took the AWS SAA exam online from my home and my experience was pre
 - The amount of information that you will have to go through to prepare for this exam is enormous. You not only need a good understanding of the various AWS resources and architectures, but you will also have to remember a lot of information. So, keep at least 3 days to revise your notes before the exam.
 
 # That's all folks
-That was all about the AWS Developer - Associate Certification exam. Thanks a lot for reading!
+That was all about the AWS Developer - Associate Certification exam. Thanks a lot for reading! -->
