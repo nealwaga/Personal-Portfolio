@@ -49,7 +49,7 @@ params:
   profileMode:
     enabled: true
     title: "Neal Waga"
-    subtitle: Hey 👋🏾! I'm Neal, an ambitious Software Developer with a passion for web development. I've built a strong foundation in software engineering through hands-on experience, and I'm always eager to learn new technologies and explore innovative practices. 
+    subtitle: Hey 👋🏾 I'm Neal, an ambitious Software Developer with a passion for web development. I've built a strong foundation in software engineering through hands-on experience, and I'm always eager to learn new technologies and explore innovative practices. 
     imageUrl: "home/Me_2.jpeg"
     imageWidth: 220
     imageHeight: 220

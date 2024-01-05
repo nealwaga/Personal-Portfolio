@@ -10,7 +10,6 @@ weight: 301
 
 ### Description
 
-- Created front-end applications using HTML, CSS, and JavaScript.
-- Managed and updated databases to capture staff certificates, project reports, and
-training forms.
+- Leveraged my knowledge of HTML, CSS and JavaScript to develop 2 frontend applications.
+- Managed and updated databases to capture staff certificates, project reports and training forms.
 
