@@ -17,14 +17,18 @@ menu:
       name: Experience
       url: /experience
       weight: 30
+    - identifier: education
+      name: Education
+      url: /education
+      weight: 40
     - identifier: blog
       name: Blog
       url: /blog
-      weight: 40
+      weight: 50
     - identifier: search
       name: Search
       url: /search
-      weight: 50
+      weight: 60
     # - identifier: tags
     #   name: Tags
     #   url: /tags
