@@ -57,13 +57,13 @@ params:
   profileMode:
     enabled: true
     title: "Neal Waga"
-    subtitle: Hey 👋🏾 I'm Neal, an ambitious Software Developer with a passion for web development. I've built a strong foundation in software engineering through hands-on experience, and I'm always eager to learn new technologies and explore innovative practices. 
+    subtitle: Hey 👋🏾 I'm Neal, an experienced Software Developer with a passion for cloud computing. Recently certified as an AWS Cloud Practitioner, I have been integrating cloud solutions into my development projects, enhancing scalability and efficiency. With a solid background in software engineering and extensive hands-on experience in web development, I am eager to leverage cloud technologies to drive innovation and deliver impactful solutions. 
     imageUrl: "home/Me_2.jpeg"
     imageWidth: 220
     imageHeight: 220
     buttons:
       - name: Resume
-        url: "https://drive.google.com/file/d/1i2pYxQM5jj4-VGS_ODqgLr6EumWjJHSI/view?usp=sharing"
+        url: "https://drive.google.com/file/d/1TDm7Kqz252WmCzzTq8FfB8UwW0hLgAo3/view?usp=sharing"
 
 
   # List View
