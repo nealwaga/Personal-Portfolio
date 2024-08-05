@@ -57,7 +57,7 @@ params:
   profileMode:
     enabled: true
     title: "Neal Waga"
-    subtitle: Hey 👋🏾 I'm Neal, an experienced Software Developer with a passion for cloud computing. Recently certified as an AWS Cloud Practitioner, I have been integrating cloud solutions into my development projects, enhancing scalability and efficiency. With a solid background in software engineering and extensive hands-on experience in web development, I am eager to leverage cloud technologies to drive innovation and deliver impactful solutions. 
+    subtitle: Hey 👋🏾 I'm Neal, an experienced Software Developer passionate about cloud computing. I apply cloud computing solutions to enhance scalability and efficiency in my projects. Eager to drive innovation using my development expertise. 
     imageUrl: "home/Me_2.jpeg"
     imageWidth: 220
     imageHeight: 220
